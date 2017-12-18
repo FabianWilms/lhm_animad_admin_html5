@@ -1,0 +1,38 @@
+{
+  "index.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/animad-keepers-view.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/animad-animals-view.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/animad-enclosures-view.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/animad-security-view.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/animad-view404.html": {
+    "shared_bundle_1.html": {
+      "type": "document",
+      "weight": 1
+    }
+  }
+}
